@@ -1,0 +1,11 @@
+pandas
+numpy
+matplotlib
+plotly
+statsmodels
+scikit-learn
+streamlit
+joblib
+scipy
+openpyxl
+python-dotenv
