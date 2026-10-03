@@ -1,0 +1,73 @@
+commodity,month_number,month_name,price
+Beans (red),1,January,1632.9
+Beans (red),2,February,1441.259
+Beans (red),3,March,1538.783
+Beans (red),4,April,1598.0515
+Beans (red),5,May,1642.0404999999998
+Beans (red),6,June,1621.889
+Beans (red),7,July,1791.6184999999998
+Beans (red),8,August,1729.9544444444446
+Beans (red),9,September,1723.4777777777776
+Beans (red),10,October,1494.71
+Beans (red),11,November,1425.152222222222
+Beans (red),12,December,1313.0416666666667
+Gari (white),1,January,218.54125
+Gari (white),2,February,218.14499999999998
+Gari (white),3,March,207.3066666666667
+Gari (white),4,April,233.998
+Gari (white),5,May,214.42083333333335
+Gari (white),6,June,242.527
+Gari (white),7,July,251.352
+Gari (white),8,August,250.36999999999998
+Gari (white),9,September,233.19666666666663
+Gari (white),10,October,213.55142857142854
+Gari (white),11,November,226.72583333333333
+Gari (white),12,December,220.1833333333333
+Oil (palm),1,January,1025.4791666666667
+Oil (palm),2,February,1016.9787499999999
+Oil (palm),3,March,1017.4862499999999
+Oil (palm),4,April,991.65375
+Oil (palm),5,May,970.1873076923076
+Oil (palm),6,June,1031.7579166666667
+Oil (palm),7,July,965.8642307692309
+Oil (palm),8,August,934.0227272727273
+Oil (palm),9,September,872.4991666666666
+Oil (palm),10,October,904.9566666666666
+Oil (palm),11,November,945.5966666666667
+Oil (palm),12,December,1030.8883333333333
+Rice (local),1,January,1499.0416666666667
+Rice (local),2,February,1445.2279166666667
+Rice (local),3,March,1508.16625
+Rice (local),4,April,1548.6945833333332
+Rice (local),5,May,1480.0765384615383
+Rice (local),6,June,1564.2716666666665
+Rice (local),7,July,1498.9723076923076
+Rice (local),8,August,1496.4283333333333
+Rice (local),9,September,1513.2479166666665
+Rice (local),10,October,1419.23375
+Rice (local),11,November,1380.57125
+Rice (local),12,December,1354.5166666666667
+Tomatoes,1,January,118.41500000000002
+Tomatoes,2,February,90.911
+Tomatoes,3,March,95.982
+Tomatoes,4,April,94.625
+Tomatoes,5,May,113.18199999999999
+Tomatoes,6,June,147.36833333333334
+Tomatoes,7,July,194.55666666666667
+Tomatoes,8,August,127.08375
+Tomatoes,9,September,111.75
+Tomatoes,10,October,108.981875
+Tomatoes,11,November,111.68875
+Tomatoes,12,December,112.26333333333334
+Yam,1,January,988.9420833333334
+Yam,2,February,989.0591666666666
+Yam,3,March,1040.82875
+Yam,4,April,1037.7158333333334
+Yam,5,May,1193.945
+Yam,6,June,1208.4604166666666
+Yam,7,July,1240.886923076923
+Yam,8,August,1045.7975
+Yam,9,September,953.5429166666667
+Yam,10,October,978.6774999999999
+Yam,11,November,944.7629166666667
+Yam,12,December,915.9050000000001

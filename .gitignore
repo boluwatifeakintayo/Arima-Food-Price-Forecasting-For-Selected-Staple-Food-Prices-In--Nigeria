@@ -12,9 +12,10 @@ __pycache__/
 .env
 
 # Generated files
-models/*.pkl
-reports/forecasts/
 data/processed/
+
+# Ignore temporary model artifacts
+models/*.joblib
 
 # OS files
 .DS_Store

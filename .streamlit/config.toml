@@ -1,0 +1,16 @@
+[theme]
+
+# Nigerian-inspired primary accent
+primaryColor = "#166534"
+
+# Main warm-green-tinted background
+backgroundColor = "#F5F7F2"
+
+# Cards and secondary surfaces
+secondaryBackgroundColor = "#FFFFFF"
+
+# Main text
+textColor = "#17202A"
+
+# Clean professional font
+font = "sans serif"

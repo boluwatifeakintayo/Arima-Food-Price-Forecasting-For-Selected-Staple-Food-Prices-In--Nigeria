@@ -1,0 +1,92 @@
+month,commodity,unit,actual_price,observation_count,data_coverage,rolling_detected,pct_change,rolling_robust_z,rolling_direction,residual_detected,fitted_price,residual,residual_robust_z,residual_direction,detection_classification
+2017-07-01,Beans (red),2.5 KG,1875.0,17.0,Moderate,True,125.09003601440578,22.94969054718148,positive,False,,,,,Rolling method only
+2017-09-01,Beans (red),2.5 KG,1250.0,19.0,Moderate,True,-35.13233004670472,-7.342015160306917,negative,False,,,,,Rolling method only
+2018-06-01,Beans (red),2.5 KG,979.0,19.0,Moderate,True,-41.27174565086983,-9.598804062892691,negative,False,,,,,Rolling method only
+2020-01-01,Beans (red),2.5 KG,313.0,19.0,Moderate,True,-24.940047961630697,-7.238833844142646,negative,False,,,,,Rolling method only
+2021-03-01,Beans (red),2.5 KG,1208.0,19.0,Moderate,True,61.06666666666667,3.629770266252576,positive,False,,,,,Rolling method only
+2023-04-01,Beans (red),2.5 KG,1189.5,16.0,Moderate,True,23.584415584415574,5.883513791167997,positive,False,,,,,Rolling method only
+2023-07-01,Beans (red),2.5 KG,1369.355,26.0,Moderate,True,13.828345802161255,3.5809286445753328,positive,False,,,,,Rolling method only
+2023-10-01,Beans (red),2.5 KG,1681.65,31.0,Good,True,13.002721499848802,4.084848525774402,positive,False,,,,,Rolling method only
+2024-01-01,Beans (red),2.5 KG,2225.0,25.0,Moderate,True,23.611111111111114,8.446102110433978,positive,False,,,,,Rolling method only
+2024-02-01,Beans (red),2.5 KG,2515.52,19.0,Moderate,True,13.057078651685394,3.799815716953028,positive,False,,,,,Rolling method only
+2024-06-01,Beans (red),2.5 KG,5000.0,20.0,Moderate,True,35.193962778398166,4.237531213210819,positive,True,3836.95846913711,1163.04153086289,4.459627097733196,above model expectation,Both methods
+2024-10-01,Beans (red),2.5 KG,4429.03,33.0,Good,True,-26.18283333333333,-3.586523572197949,negative,True,6189.976457839299,-1760.946457839299,-6.917920457623732,below model expectation,Both methods
+2026-02-01,Beans (red),2.5 KG,2291.07,27.0,Moderate,True,52.73800000000002,6.761665139651832,positive,False,,,,,Rolling method only
+2019-01-01,Gari (white),KG,183.51,8.0,Limited,True,49.47462735195896,30.912701878501657,positive,False,,,,,Rolling method only
+2020-02-01,Gari (white),KG,152.63,15.0,Moderate,False,,,,True,223.8752611869916,-71.2452611869916,-4.094496802371411,below model expectation,ARIMA residual method only
+2016-02-01,Oil (palm),L,322.245,2.0,Limited,True,20.39340954942837,19.576128426575146,positive,False,,,,,Rolling method only
+2016-03-01,Oil (palm),L,275.26,5.0,Limited,True,-14.58052103213394,-9.5452465197429,negative,False,,,,,Rolling method only
+2017-08-01,Oil (palm),L,800.0,23.0,Moderate,False,,,,True,552.3512205046434,247.64877949535665,5.232159850199324,above model expectation,ARIMA residual method only
+2017-09-01,Oil (palm),L,553.0,23.0,Moderate,False,,,,True,733.8425946759487,-180.8425946759487,-4.081855465092125,below model expectation,ARIMA residual method only
+2019-10-01,Oil (palm),L,466.66,33.0,Good,True,14.564179360968232,4.4071604405194735,positive,False,,,,,Rolling method only
+2020-03-01,Oil (palm),L,533.0,23.0,Moderate,True,10.276622597397234,7.271113174952624,positive,False,,,,,Rolling method only
+2020-11-01,Oil (palm),L,600.0,33.0,Good,True,17.416829745596864,22.478321563808148,positive,False,,,,,Rolling method only
+2022-05-01,Oil (palm),L,1243.045,32.0,Good,True,25.808541108957584,6.937459191992268,positive,True,973.6285191302532,269.4164808697468,5.705319209292294,above model expectation,Both methods
+2022-06-01,Oil (palm),L,936.975,16.0,Moderate,True,-24.62260014721913,-7.811344955808322,negative,True,1176.698642488297,-239.72364248829703,-5.361738828357613,below model expectation,Both methods
+2024-01-01,Oil (palm),L,1600.0,25.0,Moderate,False,,,,True,1368.5782785872057,231.42172141279437,4.879436139493573,above model expectation,ARIMA residual method only
+2024-02-01,Oil (palm),L,1357.88,20.0,Moderate,False,,,,True,1526.5184774945783,-168.63847749457818,-3.816577466073519,below model expectation,ARIMA residual method only
+2024-03-01,Oil (palm),L,1600.0,19.0,Moderate,False,,,,True,1426.7550421991727,173.24495780082725,3.614861634758448,above model expectation,ARIMA residual method only
+2024-11-01,Oil (palm),L,1878.26,25.0,Moderate,False,,,,True,1701.7261123752955,176.53388762470445,3.686352321845802,above model expectation,ARIMA residual method only
+2024-12-01,Oil (palm),L,2385.87,31.0,Good,False,,,,True,1826.940680996096,558.9293190039041,11.998391067670005,above model expectation,ARIMA residual method only
+2025-01-01,Oil (palm),L,2500.0,33.0,Good,False,,,,True,2255.324995448755,244.6750045512449,5.167519609944188,above model expectation,ARIMA residual method only
+2025-04-01,Oil (palm),L,2222.22,21.0,Moderate,False,,,,True,2409.340855152064,-187.12085515206357,-4.21832452317063,below model expectation,ARIMA residual method only
+2025-05-01,Oil (palm),L,2437.5,31.0,Good,False,,,,True,2258.901080133536,178.5989198664638,3.731239437633173,above model expectation,ARIMA residual method only
+2025-12-01,Oil (palm),L,2937.5,34.0,Good,False,,,,True,2491.521528382279,445.97847161772097,9.543205302344726,above model expectation,ARIMA residual method only
+2026-01-01,Oil (palm),L,2500.0,33.0,Good,False,,,,True,2822.57397773683,-322.5739777368299,-7.162636904484022,below model expectation,ARIMA residual method only
+2016-01-01,Rice (local),2.7 KG,2207.0,2.0,Limited,True,384.5225027442371,36.53503258965564,positive,True,459.13695999085,1747.86304000915,23.28127129589308,above model expectation,Both methods
+2016-02-01,Rice (local),2.7 KG,409.0,1.0,Limited,True,-81.46805618486633,-6.538142658621504,negative,True,1767.6803155880143,-1358.6803155880143,-18.41406659491043,below model expectation,Both methods
+2016-03-01,Rice (local),2.7 KG,472.5,2.0,Limited,False,,,,True,859.9830388654013,-387.4830388654013,-5.378871532006378,below model expectation,ARIMA residual method only
+2017-07-01,Rice (local),2.7 KG,1543.0,17.0,Moderate,True,88.17073170731706,11.876481717868929,positive,True,820.0,723.0,9.525786226616365,above model expectation,Both methods
+2018-01-01,Rice (local),2.7 KG,723.0,30.0,Good,True,-37.51080380293863,-5.344843482449333,negative,True,1157.0,-434.0,-6.003211896890045,below model expectation,Both methods
+2018-02-01,Rice (local),2.7 KG,1157.0,20.0,Moderate,True,60.02766251728908,8.37863579110179,positive,True,831.8579748985452,325.1420251014548,4.185824475863063,above model expectation,Both methods
+2018-06-01,Rice (local),2.7 KG,771.0,19.0,Moderate,True,-33.36214347450303,-7.344492160371284,negative,True,1157.0,-386.0,-5.358966512336624,below model expectation,Both methods
+2020-10-01,Rice (local),2.7 KG,804.0,33.0,Good,True,-27.50225428313796,-5.250552376806295,negative,True,1101.8063439629257,-297.80634396292567,-4.175250765487102,below model expectation,Both methods
+2023-02-01,Rice (local),2.7 KG,1630.5,16.0,Moderate,True,16.714387974230505,6.084277292266795,positive,False,,,,,Rolling method only
+2024-01-01,Rice (local),2.7 KG,2575.0,25.0,Moderate,False,,,,True,2240.511007298908,334.48899270109223,4.3112774078554965,above model expectation,ARIMA residual method only
+2024-02-01,Rice (local),2.7 KG,3001.725,20.0,Moderate,False,,,,True,2487.211310565689,514.5136894343104,6.727529074022268,above model expectation,ARIMA residual method only
+2024-03-01,Rice (local),2.7 KG,3350.0,19.0,Moderate,False,,,,True,2894.691775717554,455.3082242824462,5.932886414346708,above model expectation,ARIMA residual method only
+2024-07-01,Rice (local),2.7 KG,4048.39,5.0,Limited,False,,,,True,3541.665537871256,506.72446212874365,6.622983787754585,above model expectation,ARIMA residual method only
+2024-08-01,Rice (local),2.7 KG,4400.0,10.0,Moderate,False,,,,True,3931.8329570380656,468.1670429619344,6.10547463486899,above model expectation,ARIMA residual method only
+2024-11-01,Rice (local),2.7 KG,4108.685,26.0,Moderate,False,,,,True,4512.541241347759,-403.85624134775935,-5.598629034706748,below model expectation,ARIMA residual method only
+2025-05-01,Rice (local),2.7 KG,3579.17,31.0,Good,False,,,,True,3974.9175173044823,-395.7475173044827,-5.489795533883866,below model expectation,ARIMA residual method only
+2025-06-01,Rice (local),2.7 KG,3400.0,27.0,Moderate,False,,,,True,3684.7246119275455,-284.72461192754554,-3.999670651200472,below model expectation,ARIMA residual method only
+2025-07-01,Rice (local),2.7 KG,3058.06,19.0,Moderate,False,,,,True,3444.9402842455584,-386.8802842455584,-5.370781492801126,below model expectation,ARIMA residual method only
+2025-10-01,Rice (local),2.7 KG,2668.75,37.0,Good,False,,,,True,3008.091608917574,-339.3416089175739,-4.732727905971177,below model expectation,ARIMA residual method only
+2025-11-01,Rice (local),2.7 KG,2486.665,38.0,Good,False,,,,True,2751.835723928901,-265.1707239289012,-3.737222690925449,below model expectation,ARIMA residual method only
+2025-12-01,Rice (local),2.7 KG,2218.75,34.0,Good,False,,,,True,2532.336438616133,-313.5864386161329,-4.387047706073454,below model expectation,ARIMA residual method only
+2026-05-01,Rice (local),2.7 KG,2887.5,18.0,Moderate,False,,,,True,2522.699839983496,364.8001600165039,4.71810719209259,above model expectation,ARIMA residual method only
+2026-07-01,Rice (local),2.7 KG,2200.0,1.0,Limited,False,,,,True,2896.8646896630603,-696.8646896630603,-9.531323627671169,below model expectation,ARIMA residual method only
+2020-07-01,Tomatoes,0.5 KG,80.0,15.0,Moderate,True,60.00000000000001,6.731388608828846,positive,False,,,,,Rolling method only
+2021-11-01,Tomatoes,0.5 KG,80.0,17.0,Moderate,True,-20.0,-5.711276203965992,negative,False,,,,,Rolling method only
+2022-02-01,Tomatoes,0.5 KG,63.0,17.0,Moderate,True,-16.000000000000004,-6.549703147208094,negative,False,,,,,Rolling method only
+2022-03-01,Tomatoes,0.5 KG,71.0,17.0,Moderate,True,12.698412698412698,4.909112602535406,positive,False,,,,,Rolling method only
+2022-04-01,Tomatoes,0.5 KG,57.0,17.0,Moderate,True,-19.718309859154925,-7.6229530201342035,negative,False,,,,,Rolling method only
+2022-05-01,Tomatoes,0.5 KG,75.0,17.0,Moderate,True,31.578947368421066,5.851290711700839,positive,False,,,,,Rolling method only
+2024-08-01,Tomatoes,0.5 KG,200.0,10.0,Moderate,False,,,,True,376.0169447052719,-176.0169447052719,-4.697817926443262,below model expectation,ARIMA residual method only
+2026-05-01,Tomatoes,0.5 KG,233.87,17.0,Moderate,True,16.93500000000001,3.679103067472442,positive,False,,,,,Rolling method only
+2026-06-01,Tomatoes,0.5 KG,350.0,15.0,Moderate,True,49.655791679137984,7.863400838045677,positive,False,,,,,Rolling method only
+2026-07-01,Tomatoes,0.5 KG,500.0,1.0,Limited,True,42.85714285714286,6.786779178483752,positive,False,,,,,Rolling method only
+2017-09-01,Yam,2.5 KG,403.0,32.0,Good,True,-26.727272727272723,-3.679840457952015,negative,False,,,,,Rolling method only
+2018-07-01,Yam,2.5 KG,640.0,33.0,Good,True,58.8089330024814,3.6423789835968474,positive,True,405.63509778414345,234.36490221585652,3.810911768743667,above model expectation,Both methods
+2022-05-01,Yam,2.5 KG,740.5,32.0,Good,True,24.697937979405047,4.083388803974716,positive,False,,,,,Rolling method only
+2023-02-01,Yam,2.5 KG,645.0,16.0,Moderate,True,-21.818181818181813,-4.667458922408575,negative,False,,,,,Rolling method only
+2023-06-01,Yam,2.5 KG,1000.0,30.0,Good,True,44.300144300144304,6.087483277747567,positive,True,696.904625014931,303.09537498506904,4.983202912799056,above model expectation,Both methods
+2023-07-01,Yam,2.5 KG,1390.32,25.0,Moderate,True,39.032,5.353470000582614,positive,True,1006.767397147295,383.5526028527049,6.355509720889657,above model expectation,Both methods
+2024-01-01,Yam,2.5 KG,1919.355,24.0,Moderate,False,,,,True,1530.1657572036838,389.1892427963162,6.451650236470169,above model expectation,ARIMA residual method only
+2024-04-01,Yam,2.5 KG,2410.0,10.0,Moderate,False,,,,True,2014.952407255137,395.0475927448631,6.5515723159605805,above model expectation,ARIMA residual method only
+2024-05-01,Yam,2.5 KG,2879.84,18.0,Moderate,False,,,,True,2428.3723737940545,451.4676262059456,7.51389227258051,above model expectation,ARIMA residual method only
+2024-07-01,Yam,2.5 KG,3361.29,5.0,Limited,False,,,,True,3023.082326133662,338.2076738663381,5.5820906458160175,above model expectation,ARIMA residual method only
+2024-08-01,Yam,2.5 KG,3625.0,10.0,Moderate,False,,,,True,3387.229034307258,237.7709656927418,3.8690067867053606,above model expectation,ARIMA residual method only
+2024-09-01,Yam,2.5 KG,3000.0,31.0,Good,False,,,,True,3652.931268876293,-652.9312688762934,-11.323124148895506,below model expectation,ARIMA residual method only
+2024-10-01,Yam,2.5 KG,3435.48,31.0,Good,False,,,,True,3022.504031788856,412.975968211144,6.857365000625999,above model expectation,ARIMA residual method only
+2024-11-01,Yam,2.5 KG,3000.0,25.0,Moderate,False,,,,True,3461.38964832014,-461.38964832014017,-8.056122825479918,below model expectation,ARIMA residual method only
+2025-02-01,Yam,2.5 KG,3446.43,23.0,Moderate,False,,,,True,3078.682362757447,367.7476372425526,6.085934662398556,above model expectation,ARIMA residual method only
+2025-04-01,Yam,2.5 KG,2815.74,18.0,Moderate,False,,,,True,3525.3976911561585,-709.6576911561588,-12.290669981090344,below model expectation,ARIMA residual method only
+2025-05-01,Yam,2.5 KG,3500.0,26.0,Moderate,False,,,,True,2835.549371731556,664.4506282684438,11.146605348636047,above model expectation,ARIMA residual method only
+2025-06-01,Yam,2.5 KG,3173.91,25.0,Moderate,False,,,,True,3525.0027717504345,-351.0927717504346,-6.17486046236759,below model expectation,ARIMA residual method only
+2025-07-01,Yam,2.5 KG,3659.09,16.0,Moderate,False,,,,True,3196.188852823798,462.9011471762024,7.708906432075823,above model expectation,ARIMA residual method only
+2025-08-01,Yam,2.5 KG,3000.0,21.0,Moderate,False,,,,True,3684.9339376240487,-684.9339376240487,-11.868972935431673,below model expectation,ARIMA residual method only
+2025-12-01,Yam,2.5 KG,2562.5,32.0,Good,False,,,,True,3020.1448512891566,-457.6448512891566,-7.992250248748954,below model expectation,ARIMA residual method only
+2026-01-01,Yam,2.5 KG,2912.5,31.0,Good,False,,,,True,2579.244412047723,333.255587952277,5.49762612480001,above model expectation,ARIMA residual method only
+2026-05-01,Yam,2.5 KG,3237.5,17.0,Moderate,False,,,,True,2851.545473179729,385.9545268202705,6.396477781815507,above model expectation,ARIMA residual method only
+2026-07-01,Yam,2.5 KG,3000.0,1.0,Limited,False,,,,True,3283.514641978509,-283.5146419785092,-5.022224086222353,below model expectation,ARIMA residual method only
