@@ -48,7 +48,7 @@ FORECAST_FILES = {
 
 st.set_page_config(
     page_title="Food Price Forecasting System",
-    page_icon="📈",
+    page_icon="",
     layout="wide",
 )
 
@@ -376,7 +376,7 @@ current_month = (
 # DASHBOARD TITLE
 # ============================================================
 
-st.title("📈 Food Price Forecasting System")
+st.title("Food Price Forecasting System")
 
 st.markdown(
     '<div class="gold-accent"></div>',
@@ -771,7 +771,7 @@ if page == "Overview":
     # HISTORICAL PRICE SECTION
     # ============================================================
 
-    st.subheader("📊 Historical Retail Price")
+    st.subheader("Historical Retail Price")
 
     st.write(
         f"""
@@ -1822,7 +1822,7 @@ if page == "Anomalies":
 
 if page == "Data Explorer":
 
-    st.subheader("🗂️ Food Price Data Explorer")
+    st.subheader("Food Price Data Explorer")
 
     st.write(
         "Explore the monthly retail prices used by the "
